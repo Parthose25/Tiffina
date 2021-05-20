@@ -1,0 +1,64 @@
+body{
+    background-color: #eceff1;
+
+}
+.sec1{
+    padding-top: 40px;
+}
+.sec1 li a{
+    color:black;
+    font-size: 1.5rem;
+}
+.intro p{
+    padding-top:10px;
+    padding-bottom: 20px;
+}
+.intro button{
+    margin-top: 20px;
+}
+.intro img{
+    width:70%;
+    transform: rotate(20deg);  
+}
+.meals h2{
+    margin-top: 80px;
+}
+.meal-img{
+    width:90% !important;
+}
+.services img{
+    width: 50% !important;
+}
+.service-img{
+   height: 225px !important;
+}
+.download img{
+padding-top: 10px;
+}
+.download-img{
+    transform: rotate(20deg);  
+}
+.login{
+    padding-top:80px;
+    padding-bottom: 200px;
+}
+.btn1{
+    margin-top:20px;
+    margin-right: 60px;
+    margin-bottom: 30px;
+}
+.btn2{
+    margin-top:20px;
+    margin-bottom: 30px;
+}
+.log{
+    padding-bottom: 20px;
+}
+
+@media screen and (max-width:600px) {
+    .img1{
+        margin-top:50px;
+        margin-bottom: 30px;
+        margin-left: 50px;
+    }
+}
